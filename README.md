@@ -6,7 +6,7 @@
 > **Meta-Recursive Annotated README**
 >
 > 
-> Educational Reflection on "12 Lessons from AI Pair Programming" [(Forge Code)](https://github.com/antinomyhq/forge)
+> Educational Reflection on "12 Lessons from AI Pair Programming" [(Forge Code AI Pair Programmer)](https://github.com/antinomyhq/forge)
 
 ## Table of Contents
 
