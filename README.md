@@ -3,14 +3,10 @@
 
 ## Learning and Reflecting on [What Actually Works: 12 Lessons from AI Pair Programming](https://forgecode.dev/blog/ai-agent-best-practices/)
 
-> By [Forge Code](https://github.com/antinomyhq/forge)
->
->
 > **Meta-Recursive Annotated README**
 >
 > 
-> Educational Reflection on "12 Lessons from AI Pair Programming" (Forge Code)
-
+> Educational Reflection on "12 Lessons from AI Pair Programming" [(Forge Code)](https://github.com/antinomyhq/forge)
 
 ## Table of Contents
 
